@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #1a1a1a;
+    color: white;
+}
+span{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    color: white;
+}
+th{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+
+}
+li{
+    font-family: 'Quicksand', sans-serif;
+}
+#review{
+    text-align: center;
+}
+#open-modal{
+    text-align: center;
+}
+table{
+    background-color: white;
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+    border-radius: 10px;
+    
+}
+td{
+    padding: 10px;
+    text-align: center;
+}

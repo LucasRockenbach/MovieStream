@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1a1a1a;
+    color: white;
+}
+
+.list {
+    padding: 1rem;
+}
+
+.list-title {
+    text-align: center;
+}
+
+
+thead{
+    height: 36px;
+}
+
+th{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+}
+li{
+    font-family: 'Quicksand', sans-serif;
+}
+span{
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+
+
+
